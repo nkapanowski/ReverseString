@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ReverseString
+Created-By: 21.0.4 (Eclipse Adoptium)
+
